@@ -9,6 +9,7 @@
         {{ config('app.name') }}
     </title>
     <link rel="stylesheet" href="{{ asset('vendor/my-dashboard/css/dashboard.css') }}">
+    <link rel="stylesheet" href="{{ asset('vendor/my-blog/css/blog2.css') }}">
     <script src="{{ asset('vendor/fontawesome-free/js/all.min.js') }}"></script>
     <link rel="shortcut icon" href="{{ asset('assets/images/bg/full_bps.png') }}" type="image/x-icon">
     <link rel="stylesheet" href="{{ asset('vendor/flag-icon-css/css/flag-icon.min.css') }}">
