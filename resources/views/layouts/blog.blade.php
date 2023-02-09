@@ -18,7 +18,9 @@
 
     @include('layouts._blog._navbar')
     <div class="container">
-        @yield('content')
+        <div class="card">
+            @yield('content')
+        </div>
     </div>
     @include('layouts._blog._footer')
     <script src="{{ asset('vendor/jquery/jquery-3.6.0.min.js') }}"></script>

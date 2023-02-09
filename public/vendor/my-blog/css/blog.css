@@ -5,8 +5,18 @@
  */
 body {
   padding-top: 56px;
+  background-color: #DCE5D2
 }
-
+.nav-bg{
+    background-color: #0F8D46 !important;
+}
+.card{
+    padding: 20px;
+}
+.ukuran{
+    width: 30%;
+    height: 30%;
+}
 .carousel-item {
   height: 65vh;
   min-height: 300px;
@@ -19,4 +29,12 @@ body {
 
 .portfolio-item {
   margin-bottom: 30px;
+}
+.size
+{
+    width: 100%;
+    height: 100%;
+}
+.ukuranlogo{
+    width: 15%;
 }
