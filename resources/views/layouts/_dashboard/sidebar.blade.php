@@ -42,6 +42,13 @@
                 </div>
                 File manager
             </a>
+            <a class="nav-link set-active}}"
+                href="https://drive.google.com/file/d/1GVTm2ZBZC11B0J5QtBsYkxYCt2igaMUf/view?usp=sharing">
+                <div class="sb-nav-link-icon">
+                    <i class="fas fa-tags"></i>
+                </div>
+                Manual Book
+            </a>
         </div>
     </div>
     <div class="sb-sidenav-footer">
